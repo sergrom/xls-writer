@@ -1,3 +1,7 @@
+[![Go Reference](https://pkg.go.dev/badge/github.com/sergrom/xls-writer.svg)](https://pkg.go.dev/github.com/sergrom/xls-writer)
+[![Version](https://img.shields.io/github/v/tag/sergrom/xls-writer)](https://github.com/sergrom/xls-writer/tags)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 # xls-writer
 
 A Go library for creating binary Excel XLS files (BIFF8), with multiple sheets,
