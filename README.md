@@ -6,9 +6,7 @@
 
 A Go library for creating binary Excel XLS files (BIFF8), with multiple sheets,
 text cells, column widths, and document properties.
-
-The XLS encoder was extracted from `github.com/sergrom/csv2xls/v3` by copying
-its source code. This library has no external Go module dependencies.
+This library has no external Go module dependencies.
 
 ## Installation
 
