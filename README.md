@@ -16,8 +16,6 @@ go get github.com/sergrom/xls-writer
 
 ## Example
 
-Create a workbook with European cities and save it to `cities.xls`:
-
 ```go
 package main
 
