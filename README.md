@@ -99,8 +99,6 @@ Use `WriteTo` to write to an `io.Writer`, such as a `bytes.Buffer` or an HTTP
 response. The caller owns and closes the destination. Use `Save` when the
 library should handle opening and closing the output file.
 
-CSV parsing and automatic splitting across sheets are the caller's responsibility.
-
 ## Development
 
 ```sh
